@@ -1,0 +1,8 @@
+total 96
+drwxr-xr-x   7 jungmyungkeun  staff    224  4 17 15:10 .
+drwxr-xr-x  12 jungmyungkeun  staff    384  4 17 14:47 ..
+drwxr-xr-x  12 jungmyungkeun  staff    384  4 17 14:56 .git
+-rw-r--r--   1 jungmyungkeun  staff   6960  4 17 14:47 .gitignore
+-rw-r--r--   1 jungmyungkeun  staff  35149  4 17 14:47 LICENSE
+-rw-r--r--   1 jungmyungkeun  staff     64  4 17 14:47 README.md
+-rw-r--r--   1 jungmyungkeun  staff      0  4 17 15:10 list.txt
