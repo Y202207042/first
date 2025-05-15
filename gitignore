@@ -1,0 +1,7 @@
+#directory ignore
+dir/
+test/
+
+*.text
+
+*.tmp
